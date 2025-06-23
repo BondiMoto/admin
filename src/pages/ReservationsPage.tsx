@@ -4,7 +4,7 @@ import { Input } from '@/components/ui/input'
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from '@/components/ui/card'
 import { Table, TableBody, TableCell, TableHead, TableHeader, TableRow } from '@/components/ui/table'
 import { Badge } from '@/components/ui/badge'
-import { Search, Calendar, User, Car, CheckCircle, XCircle } from 'lucide-react'
+import { Search, User, CheckCircle, XCircle } from 'lucide-react'
 import api from '@/lib/api'
 import toast from 'react-hot-toast'
 
